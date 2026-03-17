@@ -1,0 +1,37 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Build outputs
+build/
+/build
+/captures
+*.dex
+output.json
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration (do not commit machine-specific paths)
+local.properties
+
+# IDE
+*.iml
+.idea/
+!.idea/codeStyles/
+!.idea/runConfigurations/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Native / NDK
+.externalNativeBuild/
+.cxx/
+
+# Keystore (do not commit signing keys)
+*.jks
+*.keystore
