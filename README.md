@@ -18,6 +18,12 @@
 
 SimpleFit is an Android fitness workout app built for a CS306 final project. It lets users browse exercises by body section, view GIF demos and training tips, and track workouts with timer/counter inputs and history.
 
+### 📸 Screenshots
+
+| Lower body categories | Workout history | Exercise details |
+| --- | --- | --- |
+| ![Lower body categories](assets/screenshots/home-lower-body-categories.png) | ![Workout history](assets/screenshots/workout-history.png) | ![Exercise details](assets/screenshots/exercise-details.png) |
+
 ### ✅ Features
 
 - **Home**: Entry cards for Upper Body / Lower Body / Core, shows height & weight, quick access to history
@@ -75,6 +81,12 @@ Course project for learning purposes only.
 ## 🌟 项目概述 (中文)
 
 SimpleFit 是 CS306 期末项目：Android 健身训练应用。你可以按身体部位浏览运动、查看 GIF 动作演示与训练要点，并通过计时/计数输入记录训练，支持历史记录回看。
+
+### 📸 应用截图
+
+| 下肢分类 | 训练历史 | 动作详情 |
+| --- | --- | --- |
+| ![下肢分类](assets/screenshots/home-lower-body-categories.png) | ![训练历史](assets/screenshots/workout-history.png) | ![动作详情](assets/screenshots/exercise-details.png) |
 
 ### ✅ 功能概览
 
